@@ -2,11 +2,11 @@
     - Enter the username and password of LinkedIn
     - Enter the query to be searched as well teh file_name and selenium driver path
 
-    For Example
-    linkedin_username = 'aaa@gmail.com'
-    linkedin_password = 'AAA'
-    search_query = 'Recruiter Amazon '
-    file_name = 'list.csv'
-    selenium_path = '/data/db/'
+    For Example<br />
+    linkedin_username = 'aaa@gmail.com'<br />
+    linkedin_password = 'AAA'<br />
+    search_query = 'Recruiter Amazon '<br />
+    file_name = 'list.csv'<br />
+    selenium_path = '/data/db/'<br />
 
 2. The program can be run using python3 script.py command from the terminal
