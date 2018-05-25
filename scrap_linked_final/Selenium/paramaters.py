@@ -1,6 +1,8 @@
-search_query = 'site:linkedin.com/in/ AND "python developer" AND "London"'
-file_name = 'results_file.csv'
+
+
 
 linkedin_username = ''
 linkedin_password = ''
-serach_query = 'Amazon Recruiter'
+search_query = 'Recruiter'
+file_name = 'list.csv'
+selenium_path = ''
