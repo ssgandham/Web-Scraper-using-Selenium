@@ -3,3 +3,4 @@ file_name = 'results_file.csv'
 
 linkedin_username = ''
 linkedin_password = ''
+serach_query = 'Amazon Recruiter'
