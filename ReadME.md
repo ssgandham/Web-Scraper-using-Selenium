@@ -6,7 +6,7 @@
     For Example<br />
     linkedin_username = 'aaa@gmail.com'<br />
     linkedin_password = 'AAA'<br />
-    search_query = 'Recruiter Amazon '<br />
+    search_query = 'Recruiter'<br />
     file_name = 'list.csv'<br />
     selenium_path = '/data/db/'<br />
 
